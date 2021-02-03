@@ -32,7 +32,7 @@
 |`stroke_color_selected`   |`0`                       |
 |`stroke_color_disabled`   |`0`                       |
 
-## User in xml
+## Use in xml
 ```
 ...
 xmlns:app="http://schemas.android.com/apk/res-auto"
